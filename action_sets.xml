@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<action_sets>
+    <action_group>
+	<name>default_group</name>
+        <describe>default group actions</describe>
+        <default_action>accept</default_action>
+        <mac_entry>84:2b:2b:b8:b7:e2</mac_entry>
+        <mac_entry>5C:F3:FC:98:B3:61</mac_entry>
+        <mac_entry>5C:F3:FC:98:B3:62</mac_entry>
+        
+        
+    
+	<mac_entry>54:27:1e:6c:04:df</mac_entry>
+    </action_group>
+</action_sets>

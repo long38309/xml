@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<action_sets>
+  <action_group>
+    <name>5-8</name>
+    <describe>default group actions</describe>
+    <default_action>accept</default_action>
+    <mac_entry>aa:aa:aa:aa:aa:aa</mac_entry>
+    <action_entry>
+      <domain>www.baidu.com</domain>
+      <action>reject</action>
+    </action_entry>
+  </action_group>
+  <action_group>
+    <name>8-10</name>
+    <describe>default group actions</describe>
+    <default_action>accept</default_action>
+    <mac_entry>aa:aa:aa:aa:aa:aa</mac_entry>
+    <action_entry>
+      <domain>www.baidu.com</domain>
+      <action>reject</action>
+    </action_entry>
+  </action_group>
+  <action_group>
+    <name>10-18</name>
+    <describe>default group actions</describe>
+    <default_action>accept</default_action>
+    <mac_entry>aa:aa:aa:aa:aa:aa</mac_entry>
+    <action_entry>
+      <domain>www.baidu.com</domain>
+      <action>reject</action>
+    </action_entry>
+  </action_group>
+</action_sets>
